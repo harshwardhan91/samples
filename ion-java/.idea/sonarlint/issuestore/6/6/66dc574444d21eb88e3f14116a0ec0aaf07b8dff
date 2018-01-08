@@ -1,0 +1,34 @@
+
+Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ŸÃ²¯+
+Fsquid:S1166"%Either log or rethrow this exception.(É˜Ùúÿÿÿÿ8ŸÃ²¯+
+vsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(ô‚Õ¥şÿÿÿÿ8ŸÃ²¯+
+ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ü½›ùÿÿÿÿ8ŸÃ²¯+
+Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ŸÃ²¯+
+ksquid:S1132"JMove the "$ion" string literal on the left side of this string comparison.(ô‚Õ¥şÿÿÿÿ8ŸÃ²¯+
+ %squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'software.amazon.ion.IonException' which is a runtime exception.(ô…ús8ŸÃ²¯+
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ÉêÚ8ŸÃ²¯+
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ıâ–ç8ŸÃ²¯+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(èÑÃ8ŸÃ²¯+
+‰ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ü«º¨8ŸÃ²¯+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»š«Ã8ŸÃ²¯+
+Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ŸÃ²¯+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ü¯×è8ŸÃ²¯+
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¥Áñºıÿÿÿÿ8ŸÃ²¯+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(éÊ‰8ŸÃ²¯+
+ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(®íÖ¯ıÿÿÿÿ8ŸÃ²¯+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŸÃ²¯+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(â¶×­úÿÿÿÿ8ŸÃ²¯+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ì¨¡«8ŸÃ²¯+
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ŸÃ²¯+
+Wsquid:S1213";Move this constructor to comply with Java Code Conventions.(»š«Ã8ŸÃ²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŸÃ²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(¥»Î€úÿÿÿÿ8ŸÃ²¯+
+msquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(£µ¦8ŸÃ²¯+
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(´ñ¢ûüÿÿÿÿ8ŸÃ²¯+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¢üñ‘8ŸÃ²¯+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÄáÇ†8ŸÃ²¯+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ÖÏğ8ŸÃ²¯+

@@ -1,0 +1,12 @@
+
+Osquid:UselessParenthesesCheck"!Remove those useless parentheses.(ó§şŠ8Ã²¯+
+Tsquid:S1213"8Move this variable to comply with Java Code Conventions.(©ÔÜØ8Ã²¯+
+\squid:S1213";Move this constructor to comply with Java Code Conventions.(ËóüÚûÿÿÿÿ8Ã²¯+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾åÆ8Ã²¯+
+rsquid:CallToDeprecatedMethod"ERemove this use of "PrivateIonBinaryWriterBuilder"; it is deprecated.(™Éæğ8Ã²¯+
+\squid:S1213";Move this constructor to comply with Java Code Conventions.(ë›†Íûÿÿÿÿ8Ã²¯+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï£«÷ıÿÿÿÿ8Ã²¯+
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ê•Øôüÿÿÿÿ8Ã²¯+
+asquid:CallToDeprecatedMethod"4Remove this use of "PrivateUtils"; it is deprecated.(éòªÎ8Ã²¯+
+rsquid:CallToDeprecatedMethod"ERemove this use of "PrivateIonBinaryWriterBuilder"; it is deprecated.(¥ƒ8Ã²¯+
+Ysquid:S1213"8Move this variable to comply with Java Code Conventions.(şù§Ğúÿÿÿÿ8Ã²¯+

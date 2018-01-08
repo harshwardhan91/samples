@@ -1,0 +1,5 @@
+first/sample/dropwizard/HelloWorldConfiguration.class
+first/sample/dropwizard/HelloWorldApplication.class
+first/sample/dropwizard/api/Saying.class
+first/sample/dropwizard/health/TemplateHealthCheck.class
+first/sample/dropwizard/resources/HelloWorldResource.class

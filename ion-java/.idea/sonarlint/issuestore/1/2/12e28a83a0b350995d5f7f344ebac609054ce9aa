@@ -1,0 +1,44 @@
+
+fsquid:S2147"ECombine this catch with the one at line 148, which has the same body.(É˜Ùúÿÿÿÿ8Ã²¯+
+Lsquid:S1172"0Remove this unused method parameter "filePaths".(²í™Ø8Ã²¯+
+¡%squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'software.amazon.ion.IonException' which is a runtime exception.(ºĞ¾Ò8Ã²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ØÖ£öüÿÿÿÿ8Ã²¯+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ºãıâ8Ã²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ØÖ£öüÿÿÿÿ8Ã²¯+
+¡%squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'software.amazon.ion.IonException' which is a runtime exception.(ºĞ¾Ò8Ã²¯+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(‹¸8Ã²¯+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(€’™Û8Ã²¯+
+Fsquid:S1166"%Either log or rethrow this exception.(É˜Ùúÿÿÿÿ8Ã²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8Ã²¯+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÈ¸×8Ã²¯+
+Fsquid:S1172"+Remove this unused method parameter "args".(£µ¦8Ã²¯+
+¡%squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'software.amazon.ion.IonException' which is a runtime exception.(ºĞ¾Ò8Ã²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8Ã²¯+
+®%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Ğƒ‚Ç8Ã²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8Ã²¯+
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8Ã²¯+
+Usquid:S3400"9Remove this method and declare a constant for this value.(”·³›8Ã²¯+
+Fsquid:S1166"%Either log or rethrow this exception.(ãİÎÿÿÿÿÿ8Ã²¯+
+Qsquid:S1172"0Remove this unused method parameter "inputFile".(Ä°ú©ıÿÿÿÿ8Ã²¯+
+Fsquid:S1166"%Either log or rethrow this exception.(ãİÎÿÿÿÿÿ8Ã²¯+
+fsquid:S2147"ECombine this catch with the one at line 175, which has the same body.(É˜Ùúÿÿÿÿ8Ã²¯+
+>squid:S2095"Close this "FileInputStream".(²ÅÈ¬øÿÿÿÿ8Ã²¯+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(•ã•ë8Ã²¯+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(‹¸8Ã²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8Ã²¯+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(§Û¿¿8Ã²¯+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(éÊ‰8Ã²¯+
+Fsquid:S1166"%Either log or rethrow this exception.(É˜Ùúÿÿÿÿ8Ã²¯+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(õ¿ˆ‹ÿÿÿÿÿ8Ã²¯+

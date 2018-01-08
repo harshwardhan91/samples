@@ -1,0 +1,7 @@
+
+Fsquid:S1166"%Either log or rethrow this exception.(É˜ÙŽúÿÿÿÿ8žÃž²¯+
+Asquid:S1166"%Either log or rethrow this exception.(«Åð¥8žÃž²¯+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦òÔùúÿÿÿÿ8žÃž²¯+
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ŽâÇÖûÿÿÿÿ8žÃž²¯+
+¦%squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'software.amazon.ion.IonException' which is a runtime exception.(›ÔÓÜüÿÿÿÿ8žÃž²¯+
+¦%squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'software.amazon.ion.IonException' which is a runtime exception.(Ø²¦¿ùÿÿÿÿ8žÃž²¯+
